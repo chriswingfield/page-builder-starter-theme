@@ -6,7 +6,6 @@
  * @subpackage Page Builder Starter
  * @since Page Builder Starter 1.0
  */
-
 get_header();
 
 	if ( have_posts() ) :
